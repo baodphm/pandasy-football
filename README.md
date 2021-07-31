@@ -22,11 +22,23 @@ Questions to be answered in the analysis:
 5. What range of NFL experience produces the greatest number of fantasy points?
 6. Running backs and pass catching
 
+Using Pandas and Matplotlib, various graphs were created to answer the questions posed in the analysis.
+
+Quarterbacks produced the most fantasy points per season. Running Backs and Wide Receivers progressively score the same amount of points. Tight Ends contribute the lowest amount of scoring.
+
 ![image](https://user-images.githubusercontent.com/74734539/127741682-0901f8d8-050b-422c-8740-00fa96aedc28.png)
+
+A bubble chart was created showing the average fantasy points by team and the standard deviation of the team with the size of the bubbles representing the total amount of fantasy points scored by the team. The Atlanta Falcons produce the most points, and the Buffalo Bills are not very productive.
+
 ![image](https://user-images.githubusercontent.com/74734539/127741674-0e77735a-fde7-4882-a254-dd8611491338.png)
 
+A correlation matrix was developed showing that demographic information like Age, Weight, and Height show very little correlation to a player's ability to produce fantasy points if the group is looked at as a whole.
+
 ![image](https://user-images.githubusercontent.com/74734539/127741497-e886da67-4836-4e18-b666-cd9cf3840c70.png)
+
+Looking at the fantasy point production by position Quarterbacks have a wider range of ages for productivity. Running Backs typically score their most points in their earlier years. Wide Receivers and Tight Ends typically score more slightly after playing in the league.
 ![image](https://user-images.githubusercontent.com/74734539/127741499-8264bc97-3c93-42d6-a16e-0a7d521e4619.png)
+
 ![image](https://user-images.githubusercontent.com/74734539/127741503-96cdb73f-06ef-491d-982c-081d5fe4ba38.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741505-a0dd450b-4d70-49e0-82bd-0b1893f8df8b.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741512-5c518496-7cb2-47a5-8688-493721e713e9.png)
