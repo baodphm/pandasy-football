@@ -22,8 +22,9 @@ Questions to be answered in the analysis:
 5. What range of NFL experience produces the greatest number of fantasy points?
 6. Running backs and pass catching
 
-![image](https://user-images.githubusercontent.com/74734539/127741478-5f7795cf-389a-408b-95ed-400590d7b14a.png)
-![image](https://user-images.githubusercontent.com/74734539/127741493-e3de8e1a-a96b-4710-b704-67e3fce185a8.png)
+![image](https://user-images.githubusercontent.com/74734539/127741682-0901f8d8-050b-422c-8740-00fa96aedc28.png)
+![image](https://user-images.githubusercontent.com/74734539/127741674-0e77735a-fde7-4882-a254-dd8611491338.png)
+
 ![image](https://user-images.githubusercontent.com/74734539/127741497-e886da67-4836-4e18-b666-cd9cf3840c70.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741499-8264bc97-3c93-42d6-a16e-0a7d521e4619.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741503-96cdb73f-06ef-491d-982c-081d5fe4ba38.png)
