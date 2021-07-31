@@ -21,3 +21,26 @@ Questions to be answered in the analysis:
 4. Is there a correlation between experience and fantasy points?
 5. What range of NFL experience produces the greatest number of fantasy points?
 6. Running backs and pass catching
+
+![image](https://user-images.githubusercontent.com/74734539/127741478-5f7795cf-389a-408b-95ed-400590d7b14a.png)
+![image](https://user-images.githubusercontent.com/74734539/127741493-e3de8e1a-a96b-4710-b704-67e3fce185a8.png)
+![image](https://user-images.githubusercontent.com/74734539/127741497-e886da67-4836-4e18-b666-cd9cf3840c70.png)
+![image](https://user-images.githubusercontent.com/74734539/127741499-8264bc97-3c93-42d6-a16e-0a7d521e4619.png)
+![image](https://user-images.githubusercontent.com/74734539/127741503-96cdb73f-06ef-491d-982c-081d5fe4ba38.png)
+![image](https://user-images.githubusercontent.com/74734539/127741505-a0dd450b-4d70-49e0-82bd-0b1893f8df8b.png)
+![image](https://user-images.githubusercontent.com/74734539/127741512-5c518496-7cb2-47a5-8688-493721e713e9.png)
+![image](https://user-images.githubusercontent.com/74734539/127741520-29bceba1-bb71-476e-8055-d09391799f50.png)
+![image](https://user-images.githubusercontent.com/74734539/127741531-249a49dd-aa2b-4c0e-adba-5a9ff9a96d62.png)
+![image](https://user-images.githubusercontent.com/74734539/127741534-b3df4397-7718-451e-968c-8b9d0c011477.png)
+![image](https://user-images.githubusercontent.com/74734539/127741536-029b4f34-ae86-4280-9998-2e6f440ce4c1.png)
+![image](https://user-images.githubusercontent.com/74734539/127741540-24e25d3a-5830-484d-aeba-475a31654c7f.png)
+![image](https://user-images.githubusercontent.com/74734539/127741548-9c778afe-44f4-4da8-810a-64f1f305c120.png)
+![image](https://user-images.githubusercontent.com/74734539/127741550-2bb956cb-b592-4465-a056-a488cd03fac3.png)
+![image](https://user-images.githubusercontent.com/74734539/127741555-f887bd08-4df4-41f6-8076-a2c47c00abd3.png)
+![image](https://user-images.githubusercontent.com/74734539/127741561-96e9d68c-d574-4269-977c-28f19bbc1174.png)
+![image](https://user-images.githubusercontent.com/74734539/127741571-7b2c88cf-e870-4d7b-87e1-b48773e93765.png)
+![image](https://user-images.githubusercontent.com/74734539/127741572-1ede2b74-2bdc-4fe6-933c-2846bb23e4e1.png)
+![image](https://user-images.githubusercontent.com/74734539/127741573-42a5a855-af78-4798-b188-38db5ea77202.png)
+![image](https://user-images.githubusercontent.com/74734539/127741577-1227b2c9-095a-42ce-847a-34e6907b26c0.png)
+![image](https://user-images.githubusercontent.com/74734539/127741584-4c8834f4-6778-4bc2-8a62-bd689703064a.png)
+
