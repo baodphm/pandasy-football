@@ -58,18 +58,21 @@ With Running Backs, there is very low correlation between experience and fantasy
 ![image](https://user-images.githubusercontent.com/74734539/127741534-b3df4397-7718-451e-968c-8b9d0c011477.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741536-029b4f34-ae86-4280-9998-2e6f440ce4c1.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741540-24e25d3a-5830-484d-aeba-475a31654c7f.png)
-![image](https://user-images.githubusercontent.com/74734539/127741548-9c778afe-44f4-4da8-810a-64f1f305c120.png)
 
 By position, Quarterbacks that can play in the league for a can more consistently score higher points. Quarterbacks have a very wide range of scoring in their earlier years. Running Backs do not play in the league as long, but if they last long enough to play for 15 years, their minimum and maximum scoring is much higher. There are a few outliers at the Running Back position, where rookies score much higher than expected. Tight Ends have some outliers in the first decade of play, but they also score more fantasy points in their later years. Experience affects Wide Receivers the most. The more experience a Wide Receiver has in the league, the more points they can score. There are some first year outliers, but Wide Receivers typically score lower in their first 5 years in the league.
 
+![image](https://user-images.githubusercontent.com/74734539/127741548-9c778afe-44f4-4da8-810a-64f1f305c120.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741550-2bb956cb-b592-4465-a056-a488cd03fac3.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741555-f887bd08-4df4-41f6-8076-a2c47c00abd3.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741561-96e9d68c-d574-4269-977c-28f19bbc1174.png)
-![image](https://user-images.githubusercontent.com/74734539/127741571-7b2c88cf-e870-4d7b-87e1-b48773e93765.png)
 
 The top quartile of Running Backs are not pure runners and can also make plays off of receptions to score more fantasy points.
+
+![image](https://user-images.githubusercontent.com/74734539/127741571-7b2c88cf-e870-4d7b-87e1-b48773e93765.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741572-1ede2b74-2bdc-4fe6-933c-2846bb23e4e1.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741573-42a5a855-af78-4798-b188-38db5ea77202.png)
+
+
 ![image](https://user-images.githubusercontent.com/74734539/127741577-1227b2c9-095a-42ce-847a-34e6907b26c0.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741584-4c8834f4-6778-4bc2-8a62-bd689703064a.png)
 
