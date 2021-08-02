@@ -43,8 +43,15 @@ Looking at the fantasy point production by position Quarterbacks have a wider ra
 ![image](https://user-images.githubusercontent.com/74734539/127741503-96cdb73f-06ef-491d-982c-081d5fe4ba38.png)
 
 ![image](https://user-images.githubusercontent.com/74734539/127741505-a0dd450b-4d70-49e0-82bd-0b1893f8df8b.png)
+
+Wide Receivers have the widest range, though they weights are the lowest of the four positions. Tight Ends have the highest weights, but their range is smaller.
+
 ![image](https://user-images.githubusercontent.com/74734539/127741512-5c518496-7cb2-47a5-8688-493721e713e9.png)
+
+Looking at height, it's more beneficial for Tight Ends to be between 76 to 78 inches. High scoring Running Backs and Wide Receivers are slightly more frequent for players that are at 73 inches. High fantasy scoring Quarterbacks are more frequently found between 74 to 76 inches.
+
 ![image](https://user-images.githubusercontent.com/74734539/127741520-29bceba1-bb71-476e-8055-d09391799f50.png)
+
 ![image](https://user-images.githubusercontent.com/74734539/127741531-249a49dd-aa2b-4c0e-adba-5a9ff9a96d62.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741534-b3df4397-7718-451e-968c-8b9d0c011477.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741536-029b4f34-ae86-4280-9998-2e6f440ce4c1.png)
