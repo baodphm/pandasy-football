@@ -73,6 +73,5 @@ The top quartile of Running Backs are not pure runners and can also make plays o
 ![image](https://user-images.githubusercontent.com/74734539/127741573-42a5a855-af78-4798-b188-38db5ea77202.png)
 
 
-![image](https://user-images.githubusercontent.com/74734539/127741577-1227b2c9-095a-42ce-847a-34e6907b26c0.png)
-![image](https://user-images.githubusercontent.com/74734539/127741584-4c8834f4-6778-4bc2-8a62-bd689703064a.png)
+These are some of the considerations to keep in mind when putting together a fantasy football team.
 
