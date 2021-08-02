@@ -36,10 +36,12 @@ A correlation matrix was developed showing that demographic information like Age
 
 ![image](https://user-images.githubusercontent.com/74734539/127741497-e886da67-4836-4e18-b666-cd9cf3840c70.png)
 
-Looking at the fantasy point production by position Quarterbacks have a wider range of ages for productivity. Running Backs typically score their most points in their earlier years. Wide Receivers and Tight Ends typically score more slightly after playing in the league.
 ![image](https://user-images.githubusercontent.com/74734539/127741499-8264bc97-3c93-42d6-a16e-0a7d521e4619.png)
 
+Looking at the fantasy point production by position Quarterbacks have a wider range of ages for productivity. Running Backs typically score their most points in their earlier years. Wide Receivers and Tight Ends typically score more slightly after playing in the league.
+
 ![image](https://user-images.githubusercontent.com/74734539/127741503-96cdb73f-06ef-491d-982c-081d5fe4ba38.png)
+
 ![image](https://user-images.githubusercontent.com/74734539/127741505-a0dd450b-4d70-49e0-82bd-0b1893f8df8b.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741512-5c518496-7cb2-47a5-8688-493721e713e9.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741520-29bceba1-bb71-476e-8055-d09391799f50.png)
