@@ -52,6 +52,8 @@ Looking at height, it's more beneficial for Tight Ends to be between 76 to 78 in
 
 ![image](https://user-images.githubusercontent.com/74734539/127741520-29bceba1-bb71-476e-8055-d09391799f50.png)
 
+With Running Backs, there is very low correlation between experience and fantasy points. The strongest correlation between experience and fantasy points is for Wide Receivers, followed by Tight Ends.
+
 ![image](https://user-images.githubusercontent.com/74734539/127741531-249a49dd-aa2b-4c0e-adba-5a9ff9a96d62.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741534-b3df4397-7718-451e-968c-8b9d0c011477.png)
 ![image](https://user-images.githubusercontent.com/74734539/127741536-029b4f34-ae86-4280-9998-2e6f440ce4c1.png)
